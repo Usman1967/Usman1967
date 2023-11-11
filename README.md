@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Usman ali 
+- 👀 I’m interested in Arduino based cnc programing 
+- 🌱 I’m currently learning BS electrical engineering 
+- 💞️ I’m looking to collaborate on CNC programming 
+- 📫 FOR any information just sent me an email at umon8289@gmail.com
+- 
